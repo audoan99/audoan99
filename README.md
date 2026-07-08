@@ -14,7 +14,7 @@ Embedded Software Engineer of intelligent edge systems. Building real-time camer
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
 
-I specialize in crafting high-performance embedded solutions—from camera streaming pipelines to edge AI deployment. My work blends deep technical expertise in Computer Vision and Deep Learning with a passion for optimizing real-time systems on resource-constrained platforms.
+I specialize in crafting high-performance embedded solutions from camera streaming pipelines to edge AI deployment. My work blends deep technical expertise in Computer Vision and Deep Learning with a passion for optimizing real-time systems on resource-constrained platforms.
 
 🔭 Currently researching lightweight AI models and real-time object detection at ISLAB, University of Ulsan (GKS Scholar).
 
