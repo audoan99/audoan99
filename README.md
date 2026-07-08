@@ -1,5 +1,5 @@
-# 👋 Hey there, I'm Au Doan Ngoc!
-Architect of intelligent edge systems. Building real-time camera pipelines, embedded AI solutions, and next-gen perception systems from Ulsan, South Korea.
+# 👋 Hey there, I'm Ngoc-Au Doan!
+Embedded Software Engineer of intelligent edge systems. Building real-time camera pipelines, embedded AI solutions, and next-gen perception systems from Ulsan, South Korea.
 
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=A8B9CC)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C)
